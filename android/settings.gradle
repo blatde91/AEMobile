@@ -1,0 +1,3 @@
+rootProject.name = 'AE_Mobile'
+
+include ':app'
